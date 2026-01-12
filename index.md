@@ -9,3 +9,8 @@ This portfolio will show you my skills, competence and projects in different are
 - Virtualization
 - Cloud Security
 - Information Security
+
+[Visningstext](URL)
+
+## Projects
+- Networking Lab (https://github.com/maxlaj456/networkingproject.io) - A lab showing and explaining how I built a functioning network
