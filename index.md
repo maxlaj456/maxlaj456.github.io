@@ -14,3 +14,4 @@ This portfolio will show you my skills, competence and projects in different are
 
 ## Projects
 - Networking Lab (https://github.com/maxlaj456/networkingproject.io) - A lab showing and explaining how I built a functioning network
+- Virtualization Lab (https://github.com/maxlaj456/virtualizationlab.io) - A lab in virtualization 
