@@ -14,4 +14,5 @@ This portfolio will show you my skills, competence and projects in different are
 
 ## Projects
 - Networking Lab (https://github.com/maxlaj456/networkingproject.io) - A lab showing and explaining how I built a functioning network
-- Virtualization Lab (https://github.com/maxlaj456/virtualizationlab.io) - A lab in virtualization 
+- Enterprise File Sharing Lab (https://github.com/maxlaj456/enterprise-file-sharing-lab) - A lab showing how to share files between two different operating systems
+- Virtualization Lab (https://github.com/maxlaj456/vagrant-python-virtualization.io) - Project showing how to run and package a Python web application in a reproducible virtual machine
